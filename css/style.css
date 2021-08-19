@@ -88,6 +88,9 @@ body {
 .home-image path:hover {
   opacity: 1;
 }
+path.current-floor {
+  opacity: 1;
+}
 .counter {
   font-family: "Bebas Neue";
   color: #635854;
